@@ -16,7 +16,7 @@
 Page design as seen on various public portfolios, some ideas from templates and google images. Goal was to keep it simple while still showing my skills, and ofc listing everything I do / have done that is worthy a mention.
 
 <details>
-  <summary><h3>Talking about some concerns</h3></summary>
+  <summary><h4>Talking about some concerns</h4></summary>
 
  - "You shouldnt put your name or phone number out there"
    - Please. I'm no longer a child. I run a public organization, my name is on various documents that are public, even on two press releases. I have nothing to hide anymore, those days are over. And that number is in a dead phone.
@@ -25,7 +25,6 @@ Page design as seen on various public portfolios, some ideas from templates and 
    - Same as aboce. Go on, if you have a desire to aquire information about me, go right ahead. But you could also always just ask me.
 </details>
 
-<br>
 
 # 💻 Code Structure:
 
