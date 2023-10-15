@@ -3,6 +3,7 @@
  <img src="https://github.com/ClaraCrazy/portfolio/assets/55334727/f4a1986e-71fa-48da-95c7-3120df9489da" alt="Portfolio Home section">
 </div>
 
+
 # 📰 Page Structure:
 
 - Home / Intro section, with nice typing animation
@@ -13,6 +14,16 @@
 - Contact field
 
 Page design as seen on various public portfolios, some ideas from templates and google images. Goal was to keep it simple while still showing my skills, and ofc listing everything I do / have done that is worthy a mention.
+
+<details>
+  <summary><h3>Talking about some concerns</h3></summary>
+
+ - "You shouldnt put your name or phone number out there"
+   - Please. I'm no longer a child. I run a public organization, my name is on various documents that are public, even on two press releases. I have nothing to hide anymore, those days are over. And that number is in a dead phone.
+   
+ - "Arent you worried that people will find things about you through those employers listed?"
+   - Same as aboce. Go on, if you have a desire to aquire information about me, go right ahead. But you could also always just ask me.
+</details>
 
 <br>
 
