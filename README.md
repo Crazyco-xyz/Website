@@ -14,7 +14,7 @@
 
 Page design as seen on various public portfolios, some ideas from templates and google images. Goal was to keep it simple while still showing my skills, and ofc listing everything I do / have done that is worthy a mention.
 
-<br><br>
+<br>
 
 # Code Structure:
 
@@ -36,7 +36,7 @@ Page design as seen on various public portfolios, some ideas from templates and 
 
 Code is kept fairly simple. Mostly just using existing libraries, so there shouldnt be any problems understanding it. If anything is unclear, feel free to ask!
 
-<br><br>
+<br>
  
 # Credits:
 - Credits for ideas to colorlib and Lucky☘️
