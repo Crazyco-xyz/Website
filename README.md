@@ -3,7 +3,7 @@
  <img src="https://github.com/ClaraCrazy/portfolio/assets/55334727/f4a1986e-71fa-48da-95c7-3120df9489da" alt="Portfolio Home section">
 </div>
 
-# Page Structure:
+# 📰 Page Structure:
 
 - Home / Intro section, with nice typing animation
 - About section with infos about me
@@ -16,7 +16,7 @@ Page design as seen on various public portfolios, some ideas from templates and 
 
 <br>
 
-# Code Structure:
+# 💻 Code Structure:
 
 - Loose files:
   - LICENSE, the License for this repository
@@ -38,7 +38,7 @@ Code is kept fairly simple. Mostly just using existing libraries, so there shoul
 
 <br>
  
-# Credits:
+# ⭐ Credits:
 - Credits for ideas to colorlib and Lucky☘️
 - Credits for help to W3Schools, Stackoverflow and MDN
 
