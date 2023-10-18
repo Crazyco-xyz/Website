@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://crazyco.xyz">Crazyco.xyz</a> - My Personal portfolio Website</h1>
 <div align="center">
- <img src="https://github.com/ClaraCrazy/portfolio/assets/55334727/f4a1986e-71fa-48da-95c7-3120df9489da" alt="Portfolio Home section">
+ <img src="https://github.com/ClaraCrazy/Portfolio/assets/55334727/262b7058-c967-4c8a-bb84-62827f0d01a6" alt="Portfolio Home section">
 </div>
 
 
