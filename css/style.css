@@ -856,6 +856,8 @@ a:hover {
   display: none;
 }
 
+
+
 /*======================================
 //--//-->   Darkmode <3
 ======================================*/
@@ -873,10 +875,14 @@ a:hover {
   .button:hover {
     box-shadow: 0 0 0 4px #222222;
   }
-  
-  .title-s {
+
+  .s-title {
     color: #ffffff;
   }
+
+  .s-text {
+    color: #ffffff;
+}
   
   .title-a {
     color: #ffffff;
