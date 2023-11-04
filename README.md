@@ -3,6 +3,8 @@
  <img src="https://github.com/ClaraCrazy/Portfolio/assets/55334727/262b7058-c967-4c8a-bb84-62827f0d01a6" alt="Portfolio Home section">
 </div>
 
+<p align="center">Join the <a href="https://discord.gg/VnEGwaRU8Y">Discord</a>!</p>
+
 
 # 📰 Page Structure:
 
