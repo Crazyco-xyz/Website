@@ -681,6 +681,20 @@ a:hover {
   color: #4e4e4e;
 }
 
+input, ul.exhaustive-list {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+
+input:checked~ul.exhaustive-list {
+  display: block;
+}
+
 /*======================================
 //--//-->   COUNTER
 ======================================*/
@@ -868,6 +882,11 @@ a:hover {
     background-color: #222222;
     color: #cccccc;
   }
+
+  a {
+    color: white;
+  }
+
   .color-d {
     color: #222222;
   }
