@@ -32,25 +32,6 @@
   <link href="css/style.css" rel="stylesheet">
 
 </head>
-<script>
-(async () => {
-  const releases = await fetch("https://api.github.com/repos/Flipper-XFW/Xtreme-Firmware/releases");
-  const json = await releases.json();
-  let count = 0;
-  json.forEach((release) => {
-    if(release.assets) {
-        release.assets.forEach((asset) => {
-            if(asset.download_count) {
-                count += asset.download_count;
-            }
-        });
-    }
-  });
-  window.onload = function() {
-    document.getElementById("dlcount").innerHTML=count;
-  };
-})();
-</script>
 <body id="page-top">
 
   <!--/ Nav Start /-->
@@ -595,5 +576,27 @@
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
 
+  <!-- User thingy counter -->
+  <script>
+    (async () => {
+      const releases = await fetch("https://api.github.com/repos/Flipper-XFW/Xtreme-Firmware/releases");
+      const json = await releases.json();
+      let count = 0;
+      json.forEach((release) => {
+        if(release.assets) {
+            release.assets.forEach((asset) => {
+                if(asset.download_count) {
+                    count += asset.download_count;
+                }
+            });
+        }
+      });
+      console.log(`Debug: ${count}`);
+      window.onload = function() {
+        document.getElementById("dlcount").innerHTML=count;
+      };
+    })();
+    </script>
+    
 </body>
 </html>
