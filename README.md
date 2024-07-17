@@ -24,7 +24,7 @@ Page design as seen on various public portfolios, some ideas from templates and 
    - Please. I'm no longer a child. I run a public organization, my name is on various documents that are public, even on two press releases. I have nothing to hide anymore, those days are over. And that number is in a dead phone.
    
  - "Arent you worried that people will find things about you through those employers listed?"
-   - Same as aboce. Go on, if you have a desire to aquire information about me, go right ahead. But you could also always just ask me.
+   - Same as above. Go on, if you have a desire to aquire information about me, go right ahead. But you could also always just ask me.
 </details>
 
 
